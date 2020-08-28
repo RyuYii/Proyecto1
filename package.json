@@ -1,0 +1,23 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "prueba de Node con lite-server",
+  "main": "index.html",
+  "scripts": {
+	"dev": "lite-server",
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyuYii/Proyecto1.git"
+  },
+  "author": "RyuYii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyuYii/Proyecto1/issues"
+  },
+  "homepage": "https://github.com/RyuYii/Proyecto1#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
